@@ -1,0 +1,26 @@
+{
+  "id": "c385c715-5acf-4a8b-b43f-ba996bd2ae9d",
+  "name": "EMSI",
+  "publisher": "Aevitas Consulting",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://EMSI.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
